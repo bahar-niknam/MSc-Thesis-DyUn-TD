@@ -1,9 +1,4 @@
 # DyUn-TD: Dynamic Uncertainty-Based Data Pruning with Temporal Dual-Depth Scoring
-
-**MSc Thesis — University of Tehran, 2025**
-
-**Author:** Bahar Niknam
-
 ## Overview
 
 This repository contains the MSc thesis **“Large-scale Dataset Pruning with Dynamic Uncertainty for Image Analysis”**, which introduces **DyUn-TD (Dynamic Uncertainty-Based Data Pruning with Temporal Dual-Depth Scoring)**.
